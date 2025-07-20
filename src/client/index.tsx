@@ -107,11 +107,11 @@ function App() {
 
       {/* Let's give some credit */}
       <p>
-        Powered by <a href="https://praneetbrar.com/">🌏 Praneet Brar</a>,{" "}
-        <a href="https://aursplusplus.com">Aura</a> and{" "}
-        <a href="https://makemyplan.net">🎈 Make My Plan</a>
-        <a href="https://contractaura.com">Contract Aura</a>
-        <a href="https://uno.directory">Uno Directory</a>
+        Our Sponsors <a href="https://praneetbrar.com/">Praneet Brar |</a>,{" "}
+        <a href="https://aursplusplus.com"> Aura |</a>{" "}
+        <a href="https://makemyplan.net"> Make My Plan |</a>
+        <a href="https://contractaura.com"> Contract Aura |</a>
+        <a href="https://uno.directory"> Uno Directory |</a>
       </p>
     </div>
   );
